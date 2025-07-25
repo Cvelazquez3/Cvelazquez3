@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Frontend and IoT Projects**
 
 - 📫 How to reach me **cvelazquez3@ucol.mx**
 
